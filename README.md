@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="./assets/network-animation.svg" width="400" alt="Network Monitoring Animation">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Especialista+em+Monitoramento;Zabbix+|+Grafana+|+Observabilidade;Apaixonado+por+Tecnologia&center=true&width=380&height=50">
 </p>
 
