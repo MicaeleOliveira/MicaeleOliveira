@@ -60,7 +60,7 @@ mindmap
   <a href="mailto:micaeleoliveira7878@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/sMicaeleOliveira">
+  <a href="https://github.com/MicaeleOliveira">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
 </p>
