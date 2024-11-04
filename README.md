@@ -87,13 +87,9 @@ Scripts para automatização de tarefas de monitoramento.
 <p align="center">
   <img src="https://img.shields.io/badge/-Zabbix-F05032?style=for-the-badge&logo=zabbix&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?MicaeleOliveira&color=blue&style=flat-square&label=Visualizações+do+Perfil"/>
-</p>
+![](https://komarev.com/ghpvc/?username=MicaeleOliveira&style=flat-square)
