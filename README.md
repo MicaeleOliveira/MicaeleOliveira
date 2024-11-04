@@ -91,5 +91,5 @@ Scripts para automatização de tarefas de monitoramento.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat-square&label=Visualizações+do+Perfil"/>
+  <img src="https://komarev.com/ghpvc/?MicaeleOliveira&color=blue&style=flat-square&label=Visualizações+do+Perfil"/>
 </p>
